@@ -3,3 +3,4 @@ eliva-25-medical-imaging-test-set/
 output/
 archive.zip
 prediction_test.csv
+kaggle.json
